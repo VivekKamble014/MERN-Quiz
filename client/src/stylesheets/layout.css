@@ -29,7 +29,7 @@
 }
 
 .menu-item:hover {
-  background-color: rgb(10, 164, 235);
+  background-color: rgb(235, 183, 10);
   z-index: 1.5;
   border-radius: 5px;
 }

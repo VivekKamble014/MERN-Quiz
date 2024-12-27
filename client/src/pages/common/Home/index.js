@@ -40,7 +40,7 @@ function Home() {
   return (
     user && (
       <div>
-        <PageTitle title={`Hi ${user.name}, Welcome to OmQuiz`} />
+        <PageTitle title={`Hi ${user.name}, Welcome to DSA-Visualization-Quiz`} />
         <div className='divider'></div>
         <Row gutter={[16, 16]}>
           {exams.map((exam, index) => (

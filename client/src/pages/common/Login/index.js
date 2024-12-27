@@ -31,7 +31,7 @@ function Login() {
         <div className='flex flex-col'>
           <div className='flex'>
             <h1 className='text-2xl'>
-              OmQuiz - LOGIN <i className='ri-login-circle-line'></i>
+              Quiz - LOGIN <i className='ri-login-circle-line'></i>
             </h1>
           </div>
           <div className='divider'></div>
